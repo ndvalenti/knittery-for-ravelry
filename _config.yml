@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Find What You Need
     description                           : Perform easy pattern searches driven by Ravelry's advanced search and category function
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : magic
     
   - title                                 : View Your Personalized Content
     description                           : View your library, carefully curate your favorites, and access your free and owned patterns
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : link
 
   - title                                 : Browse What's Available
     description                           : Browse pattern details to learn which are the right ones for you
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : sync
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
